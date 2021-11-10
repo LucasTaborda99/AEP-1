@@ -1,0 +1,218 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: rgb(19, 18, 18);
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+  }
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 410px;
+  padding: 15px;
+  margin: auto;
+}
+
+.form-signin .checkbox {
+  font-weight: 400;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+#botao {
+  margin-top: -0.2em;
+  margin-bottom: 0.7em;
+  max-width: 300px;
+}
+
+.jaCadastrado {
+  margin-top: 0%;
+  color: #fff;
+}
+
+#password {
+  margin-top: 0%;
+}
+
+#copyright {
+  padding-top: 0em;
+}
+
+.h3 {
+  color: #fff;
+}
+
+.form-control{
+  margin: 5px;
+}
+
+#email {
+  border-bottom-right-radius: 0.25rem;
+  border-bottom-left-radius: 0.25rem;
+}
+
+#pais {
+  margin: 5px;
+}
+
+#estado {
+  margin: 5px;
+}
+
+#cidade {
+  margin: 5px;
+}
+
+#telefone {
+  margin: 5px;
+}
+
+#password {
+  margin: 5px;
+  border-top-right-radius: 0.25rem;
+  border-top-left-radius: 0.25rem;
+}
+
+@media (max-width: 576px) {
+
+  #razaosocial{
+    margin-top: 0px;
+  }
+
+  #password {
+    margin-top: 0px;
+  }
+
+  #cpnj {
+    margin-top: 8px;
+  }
+  
+  #endereco {
+    margin-top: 15px;
+  }
+  
+  #cep {
+    margin-top: 0px;
+    margin-bottom: 8px;
+  } 
+
+  .h3 {
+    color: #fff;
+  }
+
+  #email {
+    margin-top: 1px;
+    border-bottom-right-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem;
+  }
+
+  #pais {
+    margin-bottom: 5px;
+  }
+
+  #estado {
+    margin-top: 1px!important;
+  }
+  
+  #cidade {
+    margin-top: 8px!important;
+  }
+  
+  #telNo {
+    margin-top: 1px;
+  }
+  
+  #password {
+    margin-top: 8px!important;
+    border-top-right-radius: 0.25rem;
+    border-top-left-radius: 0.25rem;
+  }
+}
+
+@media (max-width: 767.98px){
+  #razaosocial{
+    margin-top: 0px;
+  }
+
+  #password {
+    margin-top: 0px;
+  }
+
+  #cpnj {
+    margin-top: 8px;
+  }
+  
+  #endereco {
+    margin-top: 15px;
+  }
+  
+  #cep {
+    margin-top: 0px;
+    margin-bottom: 8px;
+  } 
+
+  .h3 {
+    color: #fff;
+  }
+
+  #email {
+    margin-top: 1px;
+    border-bottom-right-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem;
+  }
+
+  #pais {
+    margin-bottom: 5px;
+  }
+
+  #estado {
+    margin-top: 1px!important;
+  }
+  
+  #cidade {
+    margin-top: 8px!important;
+  }
+  
+  #telNo {
+    margin-top: 1px;
+  }
+  
+  #password {
+    margin-top: 8px!important;
+    border-top-right-radius: 0.25rem;
+    border-top-left-radius: 0.25rem;
+  }
+}
