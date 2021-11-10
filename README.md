@@ -1,6 +1,6 @@
 # AEP-1
 
-🔜 :elephant: 🔛
+:recycle: 🔜 :elephant: 🔛
 
 CONSUMO E PRODUÇÃO RESPONSÁVEIS ASSEGURAR PADRÕES DE PRODUÇÃO E DE CONSUMO SUSTENTÁVEIS
 
