@@ -8,4 +8,4 @@ E se pudessemos criar um projeto de arrecadação desses alimentos que antes ser
 
 Site - Versão Demo - (FrontEnd):
 
-lucastaborda99.github.io/aep1/
+https://lucastaborda99.github.io/AEP1/
